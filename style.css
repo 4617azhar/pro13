@@ -1,0 +1,32 @@
+.row1{
+    width: 732px;
+    /* height: 71px; */
+    background-color: rgb(212, 247, 244);
+    /* float: left ; */
+    border: 1px solid black;
+    margin: 24px;
+    padding: 14px;
+    font-size: 24px;
+}
+
+.row2{
+    width: 732px;
+    /* height: 53px; */
+    background-color: rgb(253, 229, 8);
+    border: 1px solid rgb(27, 12, 12);
+    margin: 24px;
+    padding: 14px;
+    font-size: 24px;
+
+}
+
+h1{
+    margin: 26px;
+    color: yellow;
+}
+
+
+body{
+    background-color: red;
+    
+}
